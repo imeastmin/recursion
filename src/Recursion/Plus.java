@@ -1,6 +1,6 @@
 package Recursion;
 
-public class Main {
+public class Plus {
 	
 	public static int func(int x) {
 		if( x == 0 )
